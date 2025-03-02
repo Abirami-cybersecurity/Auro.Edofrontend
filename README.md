@@ -14,3 +14,4 @@ The game gets more challenging as more emojis appear—stay focused and think fa
 🎯 Objective:
 Tap all the emojis without repeating any and see how long you can last!
 
+![image](https://github.com/user-attachments/assets/7faacd90-b703-4b54-b2b4-0cfd3b7d4c24)
