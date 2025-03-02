@@ -20,6 +20,7 @@ Home Page :
 Game Page : 
 ![image](https://github.com/user-attachments/assets/b6269f84-5516-4b9c-93a5-31af5d2be4d1)
 
+
 Display Score Page :
 ![image](https://github.com/user-attachments/assets/8d0b2385-a54b-40d9-825b-5e4f7f9bf10b)
 
